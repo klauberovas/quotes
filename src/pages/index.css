@@ -1,0 +1,29 @@
+/* header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.logo {
+  width: 10rem;
+  height: 10rem;
+  background-image: url(../img/rocket.svg);
+  background-size: contain;
+} */
+body {
+  margin: 0 auto;
+  font-style: italic;
+}
+
+#root {
+  background-image: url(../img/background.jpg);
+  min-width: 100vmin;
+  min-height: 100vmin;
+  text-align: center;
+  padding: 15rem 5rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
